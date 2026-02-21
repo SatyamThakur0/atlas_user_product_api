@@ -1,2 +1,4 @@
+Environment Variables
+
 MONGO_URI = "MONGO URI"
 DB_NAME = "DATABASE NAME"
